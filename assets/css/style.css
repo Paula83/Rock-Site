@@ -1,0 +1,23 @@
+*{ 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.contenedor{
+    background-image: url(../img/header.jpg);
+	height: 500px;
+	background-size: cover;
+	background-position: center;
+}
+
+h1{
+	text-align: center;
+	color:#FFFFFF;
+	font-size: 40px;
+}
+h4{
+	text-align: center;
+	color:#FFFFFF;
+}
